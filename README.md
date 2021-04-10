@@ -1,4 +1,2 @@
-# GOGO!
-gogo vee 1
-
-gogo is a "private" utility client, not a skid kiddo!
+# why are you here
+get off my github kiddo, you arent finding anything here
